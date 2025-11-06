@@ -1,30 +1,43 @@
-# 👋 Hi there, I'm Hassan Mohamed  
+<!-- 🌙 Professional Dark README for Hassan Mohammed -->
 
-🎓 **Computer Engineering Student**  
-💻 Passionate about **Programming**, **AI**, and **Software Development**  
-🌱 Currently learning **C++**, **Data Structures**, and **Git/GitHub**  
-🚀 Exploring the world of **Machine Learning** and **Problem Solving**
+<h1 align="center">Hi there 👋, I'm Hassan Mohammed</h1>
+<h3 align="center">💻 Computer Engineer | C++ Developer | Problem Solver</h3>
 
 ---
 
-### 🧠 What I’m working on
-- Improving my **Data Structures & Algorithms** skills  
-- Solving challenges on **LeetCode** and **Codewars**  
-- Building small C++ projects to strengthen logic  
+### 👨‍💻 About Me  
+- 🎓 Computer Engineering student  
+- 💡 Passionate about C++ and algorithmic problem solving  
+- 🚀 Currently improving my Data Structures & Algorithms skills  
+- 🎯 Goal: Master competitive programming and modern C++ development  
 
 ---
 
-### 🧰 Tech Stack
-- **Languages:** C++, Python  
-- **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, Algorithms, Problem Solving  
+### 🧠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux" />
+</p>
 
 ---
 
-### 📫 Connect with me
-- 📧 Email: hassanm.tech10@gmail.com  
-- 🌐 GitHub: [github.com/hassanm-tech](https://github.com/hassanm-tech)  
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanm-tech&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanm-tech&theme=tokyonight" />
+</p>
 
 ---
 
-> “Consistency is more important than speed. Keep learning every day.” 🌟
+### 🌍 Connect With Me  
+<p align="center">
+  <a href="mailto:hassanm.tech10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/USERNAME_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/hassanm-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:0F084B&height=120&section=footer"/>
+</p>
