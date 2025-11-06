@@ -1,15 +1,18 @@
-<!-- 🌙 Professional Dark README for Hassan Mohammed -->
+<!-- 🌙 Animated Professional Dark README for Hassan Mohammed -->
 
-<h1 align="center">Hi there 👋, I'm Hassan Mohammed</h1>
-<h3 align="center">💻 Computer Engineer | C++ Developer | Problem Solver</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Hassan+Mohammed;Computer+Engineer+💻;C%2B%2B+Developer+🚀;Problem+Solver+🧠">
+  </a>
+</h1>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🎓 Computer Engineering student  
-- 💡 Passionate about C++ and algorithmic problem solving  
-- 🚀 Currently improving my Data Structures & Algorithms skills  
-- 🎯 Goal: Master competitive programming and modern C++ development  
+- 💡 Passionate about **C++** and **algorithmic problem solving**  
+- 🚀 Currently improving my **Data Structures & Algorithms** skills  
+- 🎯 Goal: Master **competitive programming** and **modern C++ development**  
 
 ---
 
