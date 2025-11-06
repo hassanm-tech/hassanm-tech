@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hassan Mohamed  
 
-<!--
-**hassanm-tech/hassanm-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+💻 Passionate about **Programming**, **AI**, and **Software Development**  
+🌱 Currently learning **C++**, **Data Structures**, and **Git/GitHub**  
+🚀 Exploring the world of **Machine Learning** and **Problem Solving**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m working on
+- Improving my **Data Structures & Algorithms** skills  
+- Solving challenges on **LeetCode** and **Codewars**  
+- Building small C++ projects to strengthen logic  
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** C++, Python, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, Algorithms, Problem Solving  
+
+---
+
+### 📫 Connect with me
+- 📧 Email: hassanm.tech10@gmail.com  
+- 🌐 GitHub: [github.com/hassanm-tech](https://github.com/hassanm-tech)  
+
+---
+
+> “Consistency is more important than speed. Keep learning every day.” 🌟
