@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Hassan+Mohammed;Computer+Engineer+💻;C%2B%2B+Developer+🚀;Problem+Solver+🧠">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Hassan+Mohamed;Computer+Engineer+💻;C%2B%2B+Developer+🚀;Problem+Solver+🧠">
   </a>
 </h1>
 
@@ -27,15 +27,14 @@
 
 ### 🧠 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanm-tech&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanm-tech&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanm-tech&theme=tokyo-night" />
 </p>
 
 ---
