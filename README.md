@@ -15,7 +15,7 @@
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** C++, Python, JavaScript  
+- **Languages:** C++, Python  
 - **Tools:** Git, GitHub, VS Code  
 - **Concepts:** OOP, Algorithms, Problem Solving  
 
